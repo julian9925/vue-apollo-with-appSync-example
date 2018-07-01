@@ -78,3 +78,5 @@ schema {
 ```
 
 5. update your credentials in `src/AppSync.js`    
+
+original example is here: https://github.com/dabit3/vue-graphql-appsync.git
